@@ -1,0 +1,4 @@
+git clone url
+git add <path>
+git commit <filename> -m <comments>
+git push
